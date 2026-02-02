@@ -1,0 +1,10 @@
+{
+  "images": [
+    {
+      "file": "cover.webp",
+      "caption": "Cover image for macOS Process Automation Methods article. Technical diagram style with blue accent colors showing launchd architecture, brew services interface, PM2 monitoring dashboard, and comparison table layout.",
+      "position": "header",
+      "context": "Main cover image for article header"
+    }
+  ]
+}

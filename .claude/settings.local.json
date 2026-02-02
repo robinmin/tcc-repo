@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__huggingface__gr1_z_image_turbo_generate",
+      "Bash(curl:*)"
+    ]
+  }
+}
