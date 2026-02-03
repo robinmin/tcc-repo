@@ -1,0 +1,57 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-02-02T23:00:00Z",
+  "topic": "claude-code-todo-or-task-system-evolution",
+  "collection": "agentic_coding",
+  "publications": [
+    {
+      "platform": "local",
+      "file": "article.md",
+      "status": "published",
+      "published_at": "2026-02-02T23:00:00Z",
+      "word_count": 5100,
+      "platform_specific": false
+    },
+    {
+      "platform": "twitter",
+      "file": "article-twitter.md",
+      "status": "published",
+      "published_at": "2026-02-02T23:00:00Z",
+      "word_count": 800,
+      "platform_specific": true,
+      "notes": "Condensed version optimized for Twitter character limits"
+    },
+    {
+      "platform": "linkedin",
+      "file": "article-linkedin.md",
+      "status": "published",
+      "published_at": "2026-02-02T23:00:00Z",
+      "word_count": 2200,
+      "platform_specific": true,
+      "notes": "Professional tone optimized for LinkedIn engagement"
+    }
+  ],
+  "adaptations": [
+    {
+      "platform": "twitter",
+      "status": "complete",
+      "file": "5-adaptation/article-twitter.md"
+    },
+    {
+      "platform": "linkedin",
+      "status": "complete",
+      "file": "5-adaptation/article-linkedin.md"
+    }
+  ],
+  "images": [
+    {
+      "type": "cover",
+      "file": "4-illustration/cover.webp",
+      "status": "published",
+      "resolution": "1280x720 (16:9)",
+      "alt": "Claude Code Todo/Task System Evolution cover image"
+    }
+  ],
+  "stage": 6,
+  "status": "published"
+}

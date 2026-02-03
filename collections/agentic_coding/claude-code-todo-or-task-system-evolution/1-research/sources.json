@@ -1,0 +1,24 @@
+{
+  "sources": [
+    {
+      "url": "https://docs.claude.com/en/docs/claude-code/sdk/todo-tracking",
+      "title": "Todo Lists - Claude Code SDK",
+      "type": "official_documentation",
+      "confidence": "HIGH"
+    },
+    {
+      "url": "https://docs.claude.com/en/docs/claude-code/sdk/sdk-typescript",
+      "title": "TypeScript SDK Reference - Claude Docs",
+      "type": "official_documentation",
+      "confidence": "HIGH"
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/agent-sdk/typescript",
+      "title": "Agent SDK Reference - TypeScript",
+      "type": "official_documentation",
+      "confidence": "HIGH"
+    }
+  ],
+  "research_date": "2026-02-02",
+  "confidence_level": "MEDIUM"
+}

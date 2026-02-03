@@ -1,13 +1,20 @@
+---
+title: "macOS 进程自动化方法概览"
+topic: overview-of-macos-process-automation-methods
+collection: macos
+source: ../3-draft/draft-article.md
+version: 1
+published_at: 2026-02-02
+status: published
+word_count: 4200
+reading_time: "约 15 分钟"
+cover_image: "../4-illustration/cover.webp"
+language: zh-CN
+---
+
 # macOS 进程自动化方法概览
 
-**发布日期：** 2026-02-02
-**合集：** macos
-**阅读时间：** 约 15 分钟
-**封面图片：** macOS 自动化工具技术图表
-
 ![封面图片](../4-illustration/cover.webp)
-
----
 
 macOS 提供了多种进程自动化和服务管理方法，每种方法适用于不同的场景。从原生的 launchd 系统到特定语言的进程管理器（如 PM2），了解这些工具对于在 macOS 上运行后台服务、定时任务和生产应用程序至关重要。
 

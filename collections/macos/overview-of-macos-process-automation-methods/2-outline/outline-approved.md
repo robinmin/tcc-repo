@@ -1,3 +1,9 @@
+---
+title: "Overview of macOS Process Automation Methods"
+topic: overview-of-macos-process-automation-methods
+created_at: 2026-02-02T23:41:05Z
+status: draft
+---
 # Outline Option A: Tool-Based Structure
 
 ## Overview of macOS Process Automation Methods

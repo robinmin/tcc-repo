@@ -1,13 +1,19 @@
+---
+title: "Overview of macOS Process Automation Methods"
+topic: overview-of-macos-process-automation-methods
+collection: macos
+source: ../3-draft/draft-article.md
+version: 1
+published_at: 2026-02-02
+status: published
+word_count: 4500
+reading_time: "~15 minutes"
+cover_image: "../4-illustration/cover.webp"
+---
+
 # Overview of macOS Process Automation Methods
 
-**Published:** 2026-02-02
-**Collection:** macos
-**Reading Time:** ~15 minutes
-**Cover Image:** Technical diagram of macOS automation tools
-
 ![Cover Image](../4-illustration/cover.webp)
-
----
 
 macOS provides multiple approaches to process automation and service management, each suited for different scenarios. From the native launchd system to language-specific process managers like PM2, understanding these tools is essential for running background services, scheduled tasks, and production applications on macOS.
 

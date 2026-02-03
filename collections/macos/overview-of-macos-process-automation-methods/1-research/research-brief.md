@@ -1,9 +1,17 @@
+---
+title: "Overview of macOS Process Automation Methods"
+topic: overview-of-macos-process-automation-methods
+collection: macos
+research_type: systematic
+focus: "Process automation and service management (launchd, cron, brew services, PM2, etc.)"
+confidence: HIGH
+sources_count: 25
+keywords: [macos, process-automation, launchd, cron, pm2, supervisord]
+methodology: "Systematic synthesis of official documentation, community guides, and technical tutorials"
+created_at: 2026-02-02T23:41:05Z
+status: draft
+---
 # Research Brief: macOS Process Automation Methods
-
-**Research Type:** Systematic
-**Date:** 2026-02-02
-**Focus:** Process automation and service management (launchd, cron, brew services, PM2, etc.)
-**Confidence:** HIGH
 
 ## Executive Summary
 
@@ -392,7 +400,8 @@ worker: npm run worker
 **Video Tutorials:** 2
 **Q&A Discussions:** 5
 
-**Confidence: HIGH**
-- All claims supported by authoritative sources
-- Official documentation cited for all major tools
-- Community examples provide practical validation
+## Confidence Level
+
+**Overall**: HIGH
+
+This research brief synthesizes information from official documentation, community guides, and technical tutorials. All major claims are supported by authoritative sources. The coverage of native macOS tools (launchd) is particularly strong, while third-party tools are documented based on their official documentation and community examples.

@@ -2,7 +2,18 @@
   "permissions": {
     "allow": [
       "mcp__huggingface__gr1_z_image_turbo_generate",
-      "Bash(curl:*)"
+      "Bash(curl:*)",
+      "mcp__ref__ref_search_documentation",
+      "WebSearch",
+      "mcp__ref__ref_read_url",
+      "mcp__grep__searchGitHub",
+      "WebFetch(domain:docs.anthropic.com)",
+      "WebFetch(domain:docs.claude-code.anthropic.com)",
+      "WebFetch(domain:www.anthropic.com)",
+      "Bash(wc -l /Users/robin/tcc/repo/docs/prompts/tasks/*.md)",
+      "Bash(python3:*)",
+      "Bash(xargs -I {} sh -c:*)",
+      "Bash(find:*)"
     ]
   }
 }

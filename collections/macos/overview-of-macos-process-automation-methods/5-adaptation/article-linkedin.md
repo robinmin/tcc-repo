@@ -1,3 +1,15 @@
+---
+title: "Overview of macOS Process Automation Methods"
+topic: overview-of-macos-process-automation-methods
+collection: macos
+source: ../3-draft/draft-article.md
+platform: linkedin
+created_at: 2026-02-02T23:41:05Z
+status: published
+original_length: 4500
+adapted_length: 1200
+reading_time: "5 minutes"
+---
 # macOS Process Automation: The Complete Guide
 
 As developers and sysadmins, we often need to run background services, scheduled tasks, and production applications on macOS. But with so many tools available—launchd, brew services, PM2, Supervisord—how do you choose the right one?

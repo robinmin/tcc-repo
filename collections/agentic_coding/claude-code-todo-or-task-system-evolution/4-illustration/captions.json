@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "images": [
+    {
+      "file": "cover.webp",
+      "type": "cover",
+      "caption": "Claude Code Todo/Task System Evolution - Cover Image",
+      "alt": "Technical illustration showing task management evolution from TodoWrite to TaskList/TaskGet/TaskUpdate with workflow icons and connected nodes representing dependency tracking",
+      "prompt": "Professional, technical cover image for an article about Claude Code Todo/Task System Evolution. Clean, technical Apple/macOS design aesthetic with checkmarks, lists, and workflow icons representing task management. Code editor or terminal aesthetic elements. Abstract representation of task dependencies with connected nodes and lines.",
+      "generated_at": "2026-02-02T23:00:00Z",
+      "style": "technical-illustration"
+    }
+  ]
+}

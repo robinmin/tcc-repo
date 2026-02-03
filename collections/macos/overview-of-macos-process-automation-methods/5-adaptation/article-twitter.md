@@ -1,3 +1,14 @@
+---
+title: "Overview of macOS Process Automation Methods"
+topic: overview-of-macos-process-automation-methods
+collection: macos
+source: ../3-draft/draft-article.md
+platform: twitter
+created_at: 2026-02-02T23:41:05Z
+status: published
+original_length: 4500
+adapted_length: 280
+---
 macOS Process Automation: The Complete Guide 🧵
 
 From native launchd to PM2, here's everything you need to know about keeping services alive on macOS:
