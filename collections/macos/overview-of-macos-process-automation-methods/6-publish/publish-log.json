@@ -1,6 +1,40 @@
 {
-  "published_at": "2026-02-02T00:00:00Z",
+  "version": "1.0.0",
+  "last_updated": "2026-02-05T10:14:00Z",
+  "publications": [
+    {
+      "id": "surfing-en-001",
+      "platform": "surfing",
+      "url": "https://surfing.salty.vip/articles/overview-of-macos-process-automation-methods",
+      "content_type": "articles",
+      "language": "en",
+      "published_at": "2026-02-05T10:13:00Z",
+      "status": "published",
+      "notes": "English version published via postsurfing CLI",
+      "source_file": "6-publish/article_en.md"
+    },
+    {
+      "id": "surfing-cn-001",
+      "platform": "surfing",
+      "url": "https://surfing.salty.vip/articles/cn/macos",
+      "content_type": "articles",
+      "language": "cn",
+      "published_at": "2026-02-05T10:14:00Z",
+      "status": "published",
+      "notes": "Chinese version published via postsurfing CLI",
+      "source_file": "6-publish/article_cn.md"
+    }
+  ],
   "platforms": [
+    {
+      "name": "surfing",
+      "files": [
+        "6-publish/article_en.md",
+        "6-publish/article_cn.md"
+      ],
+      "status": "published",
+      "word_count": 4500
+    },
     {
       "name": "blog",
       "file": "6-publish/article.md",
