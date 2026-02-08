@@ -1,5 +1,5 @@
 ---
-title: "macOS 进程自动化方法概览"
+title: "macOS 进程自动化方法"
 topic: overview-of-macos-process-automation-methods
 collection: macos
 source: ../3-draft/draft-article.md
@@ -12,7 +12,7 @@ cover_image: "../4-illustration/cover.webp"
 language: zh-CN
 ---
 
-# macOS 进程自动化方法概览
+# macOS 进程自动化方法
 
 ![封面图片](../4-illustration/cover.webp)
 
